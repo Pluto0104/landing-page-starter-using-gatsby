@@ -4,16 +4,16 @@
   </a>
 </p>
 <h1 align="center">
-  tsParticles Gatsby Landing Page Starter
+  Pluto0104 Gatsby Landing Page Starter
 </h1>
 
-Kick off your project with this landing page boilerplate. This starter ships with the main Gatsby configuration files, and [React tsParticles](https://github.com/matteobruni/tsparticles) with a simple configuration, you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this landing page boilerplate. This starter ships with the main Gatsby configuration files with a simple configuration, you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 ## Landing Page Preview
 
-[![login](https://raw.githubusercontent.com/tsparticles/gatsby-landing-page-starter/master/__screenshots/landing.png)](https://tsparticles.github.io/gatsby-landing-page-starter/index.html)
+[![login](https://raw.githubusercontent.com/Pluto0104/gatsby-landing-page-starter/master/__screenshots/landing.png)](https://Pluto0104.github.io/gatsby-landing-page-starter/index.html)
 
-You can see a working preview [here](https://tsparticles.github.io/gatsby-landing-page-starter/index.html)
+You can see a working preview [here](https://Pluto0104.github.io/gatsby-landing-page-starter/index.html)
 
 ## 🚀 Quick start
 
@@ -23,7 +23,7 @@ You can see a working preview [here](https://tsparticles.github.io/gatsby-landin
 
     ```shell
     # create a new Gatsby site using the particles landing page starter
-    gatsby new my-particles-starter https://github.com/tsparticles/gatsby-landing-page-starter
+    gatsby new my-particles-starter https://github.com/Pluto0104/gatsby-landing-page-starter
     ```
 
 1.  **Start developing.**
@@ -95,21 +95,21 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tsparticles/gatsby-landing-page-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Pluto0104/gatsby-landing-page-starter)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/tsparticles/gatsby-landing-page-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Pluto0104/gatsby-landing-page-starter)
 
-## What is tsParticles
+## What is Pluto0104
 
-[tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight library for easily creating particles animations in your websites or web applications.
+[Pluto0104](https://github.com/matteobruni/Pluto0104) is a lightweight library for easily creating particles animations in your websites or web applications.
 
-The [tsParticles](https://github.com/matteobruni/tsparticles) library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
+The [Pluto0104](https://github.com/matteobruni/Pluto0104) library is ready to be used in standard JavaScript, React, Vue.js, Angular, Svelte, jQuery, Preact, Inferno.
 
-### React tsParticles
+### React Pluto0104
 
-The ReactJS official [tsParticles](https://github.com/matteobruni/tsparticles) library is `react-tsparticles`.
+The ReactJS official [Pluto0104](https://github.com/matteobruni/Pluto0104) library is `react-Pluto0104`.
 
-You read more about `react-tsparticles` [here](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) 
+You read more about `react-Pluto0104` [here](https://github.com/matteobruni/Pluto0104/blob/master/components/react/README.md) 
 
 ## Background Source
 
